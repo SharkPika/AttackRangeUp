@@ -1,0 +1,43 @@
+DefaultParticle: WITCH_MAGIC
+#DefaultParticle仅仅生效于武器没有任何粒子特效Lore时
+#
+#设置为NULL则没有默认粒子
+#粒子代号        名字翻译
+#
+#CLOUD                     云
+#COLOURED_DUST             彩云
+#CRIT                      暴击
+#ENDER_SIGNAL              末影珍珠破碎
+#EXPLOSION                 微小爆炸
+#EXPLOSION_HUGE            大爆炸
+#EXPLOSION_LARGE           爆炸
+#FIREWORKS_SPARK           烟花发射
+#FLAME                     火焰
+#FLYING_GLYPH              文字
+#FOOTSTEP                  足迹
+#HAPPY_VILLAGER            村民开心时的绿色
+#HEART                     爱心
+#INSTANT_SPELL             箭矢尾迹
+#LARGE_SMOKE               烟雾
+#LAVA_POP                  岩浆溅射小颗粒
+#LAVADRIP                  岩浆滴落
+#MAGIC_CRIT                膜法暴击
+#MOBSPAWNER_FLAMES         刷怪笼刷怪时的火焰
+#NOTE                      音符
+#PARTICLE_SMOKE            小烟雾颗粒
+#PORTAL                    传送门
+#POTION_BREAK              药水瓶碎裂
+#POTION_SWIRL              彩色药水
+#POTION_SWIRL_TRANSPARENT  透明彩色药水
+#SLIME                     粘液
+#SMOKE                     大烟雾
+#SNOW_SHOVEL               用锹铲雪
+#SNOWBALL_BREAK            雪球破碎
+#SPELL                     魔力
+#SPLASH                    小水滴
+#TILE_BREAK                瓦砖破碎
+#TILE_DUST                 瓦砖
+#VILLAGER_THUNDERCLOUD     村民愤怒时的雷云
+#VOID_FOG                  虚空迷雾
+#WATERDRIP                 水滴滴落
+#WITCH_MAGIC               女巫魔法

@@ -1,0 +1,7 @@
+main: cn.sky.attackrangeup.AttackRangeUp
+version: 1.0.0
+name: AttackRangeUp
+author: pi_ka
+commands:
+  attrange:
+  sp:

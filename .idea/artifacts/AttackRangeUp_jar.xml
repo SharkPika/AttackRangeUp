@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AttackRangeUp:jar">
+    <output-path>D:/jar</output-path>
+    <root id="archive" name="AttackRangeUp.jar">
+      <element id="module-output" name="AttackRangeUp" />
+    </root>
+  </artifact>
+</component>
